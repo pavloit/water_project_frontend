@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/water_project_frontend/static/css/main.7acaea2f.css",
+    "main.js": "/water_project_frontend/static/js/main.07d3183d.js",
+    "index.html": "/water_project_frontend/index.html",
+    "main.7acaea2f.css.map": "/water_project_frontend/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/water_project_frontend/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
